@@ -1,4 +1,4 @@
 # CRUD_studies
-My first CRUD using Spring MVC
+My first CRUD using Spring MVC, Bootstrap, Java & Javascript.
 
-![](https://github.com/heloisaldanha/CRUD_studies/blob/main/CRUD.gif)
+![Gif of my project. Background white and green details](https://github.com/heloisaldanha/CRUD_studies/blob/main/CRUD.gif)
